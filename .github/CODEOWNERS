@@ -1,0 +1,5 @@
+# 將所有 JavaScript 檔案交由前端團隊或個人審核
+*.js @your-github-id
+
+# 將所有文件資料夾交由維護者審核
+docs/ @your-github-id
